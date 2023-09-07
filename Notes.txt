@@ -1,0 +1,3 @@
+-> TypeScript is Statically Typed language whereas JS is Dynamically Typed language(variable can change type during run time)
+-> TypeScript: Javascript with type checking
+-> TypeScript Code --> TS compiler(Converts to JS code) --> use JS code to run in browser JS engine
