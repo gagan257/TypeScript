@@ -31,3 +31,19 @@ npx tsc {YOUR_TS_FILE_NAME.ts}
 ```
 
 **This will compile your TypeScript Code and will generate a .js file**
+
+### OR
+
+```
+npx tsc
+```
+
+**This will compile all the TS files in the folder**
+
+## Configure TypeScript Compiler
+
+```
+npx tsc --init
+```
+
+**This Creates a tsconfig.json file which contains all the settings of TS compiler(see notes.txt for more about tsconfig.json)**
