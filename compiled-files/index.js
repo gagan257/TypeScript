@@ -1,4 +1,5 @@
 "use strict";
+Object.defineProperty(exports, "__esModule", { value: true });
 let sales = 1234;
 let course = "TypeScript";
 let published = true;
